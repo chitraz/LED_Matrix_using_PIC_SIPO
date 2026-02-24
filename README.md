@@ -4,6 +4,6 @@ This repo contains [code](newmain.c), [schematic](LEDM_Schematic_print.pdf) and 
 
 <br>
 
-https://github.com/user-attachments/assets/4f5018af-4c22-45ef-8b06-b0bf5ac106ae
+https://github.com/user-attachments/assets/7c8dd4ac-51e1-4fa4-b9e5-2080814a5b39
 
 <br>
