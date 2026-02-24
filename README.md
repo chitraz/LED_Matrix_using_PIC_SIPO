@@ -7,3 +7,8 @@ This repo contains [code](newmain.c), [schematic](LEDM_Schematic_print.pdf) and 
 https://github.com/user-attachments/assets/7c8dd4ac-51e1-4fa4-b9e5-2080814a5b39
 
 <br>
+
+<br>
+<img src="https://github.com/user-attachments/assets/a887343d-ab52-4a12-a7f3-70fc18b00c0d" width="200" />
+<img src="https://github.com/user-attachments/assets/a519796a-b42c-4c41-925d-7e8e1f31f0ba" width="200" />
+<br>
