@@ -4,7 +4,7 @@ This repo contains code, schematic and docmentations for this old (but still nea
 
 <br>
 
-https://github.com/user-attachments/assets/2d6b93aa-6370-49c1-bbc4-f4243a8f6796
+https://github.com/user-attachments/assets/4f5018af-4c22-45ef-8b06-b0bf5ac106ae
 
 <br>
 
